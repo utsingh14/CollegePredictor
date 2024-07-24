@@ -1,0 +1,59 @@
+body{
+    height: 200vh;
+}
+
+.heading{
+    /* background-image: url("p1.jpg"); */
+    width: 98vw;
+    height: 30vh;
+    background-color: grey;
+    /* align-items: center; */
+    text-align: center;
+    align-content: center;
+}
+#head{
+    padding: 20px;
+}
+#box1{
+    padding: 3px;
+    width: 10vw;
+    text-align: center;
+    float: left;
+    background-color: purple;
+}
+#box2{
+    padding: 3px;
+    width: 10vw;
+    text-align: center;
+    float: right;
+    background-color: purple;
+}
+
+.form{
+    background-color: blueviolet;
+    width: 94vw;
+    height: 60vh;
+    margin: 40px;
+    text-align: center;
+    align-content: center;
+    
+}
+
+.inpu{
+    padding: 10px;
+    
+}
+#inp{
+    width: 18rem;
+}
+#subButton{
+    align-self: self-end;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: green;
+}
+#heading{
+    text-align: center;
+    margin: 50px;
+}
